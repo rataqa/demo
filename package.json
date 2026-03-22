@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo repo to show how to use libraries of rataqa",
+  "keywords": [
+    "demo",
+    "rataqa"
+  ],
+  "homepage": "https://github.com/rataqa/demo#readme",
+  "bugs": {
+    "url": "https://github.com/rataqa/demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rataqa/demo.git"
+  },
+  "license": "MIT",
+  "author": "Rataqa Team",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,2 @@
+// AMQP worker
+// TODO
