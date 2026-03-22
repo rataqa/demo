@@ -1,0 +1,3 @@
+# apps
+
+Folder for applications.
