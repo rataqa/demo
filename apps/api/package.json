@@ -17,12 +17,12 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@rataqa/amir": "^1.0.1",
-    "@rataqa/jalb": "^1.0.3",
+    "@rataqa/amir": "^1.0.3",
+    "@rataqa/jalb": "^1.0.4",
     "@rataqa/muhit": "^1.0.2",
     "@rataqa/sijil": "^1.0.4",
     "@rataqa/takid": "^1.0.2",
-    "@rataqa/wasit": "^1.0.3",
+    "@rataqa/wasit": "^1.0.4",
     "dotenv": "^17.3.1",
     "express": "^5.2.1"
   },
